@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:28/04/2025
-## Register Number:212224230030
-## Name:AYSHWARIYA J
+# Date:29/04/2025
+## Register Number:212223230162
+## Name:Priyanka K
 ## Problem Title
 SIH1392 E-Waste Facility Locator
 ## Problem Description
